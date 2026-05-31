@@ -1,0 +1,6 @@
+{
+  "name": "MINIMA",
+  "description": "Premium Mobile Accessories - Precision, Transparency, and Luxury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
